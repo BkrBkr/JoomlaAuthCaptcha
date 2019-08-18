@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extensionset name="AuthCaptcha for Joomla" description="This Joomla System Plugin adds a captcha challenge to all Joomla login-forms.">
+    <extension name="authcaptcha" element="PLG_SYSTEM_AUTHCAPTCHA" type="plugin" version="0.5.0" detailsurl="https://raw.githubusercontent.com/BkrBkr/AuthCaptchaForJoomla/master/update.xml" />
+</extensionset>
